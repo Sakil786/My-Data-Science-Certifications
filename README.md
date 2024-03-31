@@ -58,6 +58,10 @@
 |Neural Networks for Machine Learning   | [link ](https://coursera.org/share/4eb7c9957a7f63368ae52edff2a56d52 "link ") |
 |Serverless using AWS Lambda for Python Developers   | [link ](https://udemy-certificate.s3.amazonaws.com/image/UC-438f5c39-c94c-4d1a-a1da-dd8e63d52070.jpg "link ") |
 |Learning Microsoft Azure Step by Step Part 1   | [link ](https://udemy-certificate.s3.amazonaws.com/image/UC-0C2R8EOR.jpg "link ") |
+|Modern Natural Language Processing in Python   | [link ](https://udemy-certificate.s3.amazonaws.com/image/UC-6fffe761-9578-42c3-b99c-2c87b6904de2.jpg "link ") |
+|Introduction to Data Science using Python   | [link ](https://udemy-certificate.s3.amazonaws.com/image/UC-AAOM26NN.jpg "link ") |
+|AWS Essentials   | [link ](https://udemy-certificate.s3.amazonaws.com/image/UC-QH5MW6Z9.jpg "link ") |
+
 
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
