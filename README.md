@@ -32,7 +32,8 @@
 | Specialization Name | Course Name | Link |
 | :---         |     :---:      |          ---: |
 | Google Advanced Data Analytics   | Foundations of Data Science <br> Go Beyond the Numbers: Translate Data into Insights <br> Get Started with Python <br> The Power of Statistics <br> Regression Analysis: Simplify Complex Data Relationships <br> The Nuts and Bolts of Machine Learning <br> Google Advanced Data Analytics Capstone | [link ](https://coursera.org/share/4a41916e4268346082529f00dae5e601 "link ")  <br> [link ](https://coursera.org/share/17a4e8cda6e1b655404d477ca0701213 "link ") <br> [link ](https://coursera.org/share/716aee7773c8aec1df7fe0285a533280 "link ") <br> [link ](https://coursera.org/share/a29eeaff13722eeb3d10ef2c2714b6ce "link ") <br> [link ](https://coursera.org/share/f30de3cc5271e44d35da456299907f40 "link ") <br> [link ](https://coursera.org/share/69fa1386c5ff3383ab6cc36446436e3d "link ") <br> [link ](https://coursera.org/share/5e515b7c174f4893c968ca728225be7e "link ")|
-| git diff     | git diff       | git diff      |
+| Introduction to Data Science     | What is Data Science? <br> Tools for Data Science <br> Data Science Methodology  <br> Databases and SQL for Data Science with Python   | [link ](https://coursera.org/share/4f81401b548909c1ba1c07a18bc4f556 "link ") <br> [link ](https://coursera.org/share/409f95f6ea9b7b90166fa88a4ad19130 "link ") <br> [link ](https://coursera.org/share/2061ace0af17d485a8ccbe605a509db6 "link ") <br> [link ](https://coursera.org/share/97c8e7c197a5495de5f75d996f90ef84 "link ")     |
+| Introduction to Data Science     | What is Data Science?       | [link ](https://coursera.org/share/4f81401b548909c1ba1c07a18bc4f556 "link ")      |
 
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
