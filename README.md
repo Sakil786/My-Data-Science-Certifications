@@ -31,7 +31,7 @@
 ## Specializations
 | Specialization Name | Course Name | Link |
 | :---         |     :---:      |          ---: |
-| Google Advanced Data Analytics   | Foundations of Data Science <br> Go Beyond the Numbers: Translate Data into Insights <br> Get Started with Python <br> The Power of Statistics | [link ](https://coursera.org/share/4a41916e4268346082529f00dae5e601 "link ")  <br> [link ](https://coursera.org/share/17a4e8cda6e1b655404d477ca0701213 "link ") <br> [link ](https://coursera.org/share/716aee7773c8aec1df7fe0285a533280 "link ") <br> [link ](https://coursera.org/share/a29eeaff13722eeb3d10ef2c2714b6ce "link ")|
+| Google Advanced Data Analytics   | Foundations of Data Science <br> Go Beyond the Numbers: Translate Data into Insights <br> Get Started with Python <br> The Power of Statistics <br> Regression Analysis: Simplify Complex Data Relationships <br> The Nuts and Bolts of Machine Learning <br> Google Advanced Data Analytics Capstone | [link ](https://coursera.org/share/4a41916e4268346082529f00dae5e601 "link ")  <br> [link ](https://coursera.org/share/17a4e8cda6e1b655404d477ca0701213 "link ") <br> [link ](https://coursera.org/share/716aee7773c8aec1df7fe0285a533280 "link ") <br> [link ](https://coursera.org/share/a29eeaff13722eeb3d10ef2c2714b6ce "link ") <br> [link ](https://coursera.org/share/f30de3cc5271e44d35da456299907f40 "link ") <br> [link ](https://coursera.org/share/69fa1386c5ff3383ab6cc36446436e3d "link ") <br> [link ](https://coursera.org/share/5e515b7c174f4893c968ca728225be7e "link ")|
 | git diff     | git diff       | git diff      |
 
 
