@@ -27,7 +27,7 @@
 |Finetuning Large Language Models   | [link ](https://learn.deeplearning.ai/accomplishments/ac96ad54-695e-4bf5-b9fc-deb6ed9e2d04?usp=sharing "link ") |
 |Building and Evaluating Advanced RAG  | [link ](https://learn.deeplearning.ai/accomplishments/ac96ad54-695e-4bf5-b9fc-deb6ed9e2d04?usp=sharing "link ") |
 |LLMOps  | [link ](https://learn.deeplearning.ai/accomplishments/fb9d2a4f-a82d-4575-ba91-b0dae7caa4bb?usp=sharing "link ") |
-|LlamaIndex- Develop LLM powered applications with LlamaIndex  | [link ](https://www.udemy.com/share/109KHG3@TWnqcBjvDo5dXmQjtspkOEERLGpiIysy1JG2YdQ1jk3pdq7aIXmnRqc0dDmOsz8d/ "link ") |
+|LlamaIndex- Develop LLM powered applications with LlamaIndex  | [link ](https://udemy-certificate.s3.amazonaws.com/image/UC-c5fdc373-1bb8-4ae5-a80f-93b9902e6a43.jpg "link ") |
 
 ## Specializations
 | Specialization Name | Course Name | Link |
