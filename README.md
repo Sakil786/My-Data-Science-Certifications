@@ -39,6 +39,9 @@
 | Agile Development     | Agile Meets Design Thinking <br> Running Product Design Sprints <br> Hypothesis-Driven Development <br> Agile Development in Practice (Project-centered Course) <br> Managing an Agile Team     | [link ](https://coursera.org/share/8b088da236d6a57aa1909e5a96f2bcf4 "link ") <br> [link ](https://coursera.org/share/6bae9b121a908a082e579593c42f67f0 "link ") <br> [link ](https://coursera.org/share/9ad9c26766049681cc615ee0fce37280 "link ") <br> [link ](https://coursera.org/share/c316eb8b00a7cd8eff21a6c69661d80d "link ") <br> [link ](https://coursera.org/share/22ee74ab12d6aed783598c4266d02388 "link ")    |
 | DevOps on AWS     | AWS Cloud Technical Essentials <br> DevOps on AWS: Code, Build, and Test <br> DevOps on AWS: Release and Deploy <br> DevOps on AWS: Operate and Monitor     | [link ](https://coursera.org/share/0524be9fa1778049ad872217e521e6ce "link ")  <br> [link ](https://coursera.org/share/d70f14b1e33e4bca080e886bcb940b14 "link ")  <br> [link ](https://coursera.org/share/a91b1d23fae5f8b56d804d34f023f7f0 "link ") <br> [link ](https://coursera.org/share/6328b293d97301e556b41296aaa2ff28 "link ")   |
 
-
+## Data Science
+| Certification Name  |Link   |
+| :------------: | :------------: |
+|Regression Analysis: Simplify Complex Data Relationships   | [link ](https://coursera.org/share/7e11fef46165edaa62470c4044659c78 "link ") |
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
