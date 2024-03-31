@@ -56,6 +56,8 @@
 |Algorithmic Toolbox   | [link ](https://coursera.org/share/057a02efd582d42e1c50d47ccaa32a5b "link ") |
 |Digital Signal Processing   | [link ](https://coursera.org/share/ba30af4beb1c1bcde250b4d991602dfe "link ") |
 |Neural Networks for Machine Learning   | [link ](https://coursera.org/share/4eb7c9957a7f63368ae52edff2a56d52 "link ") |
+|Serverless using AWS Lambda for Python Developers   | [link ](https://udemy-certificate.s3.amazonaws.com/image/UC-438f5c39-c94c-4d1a-a1da-dd8e63d52070.jpg "link ") |
+|Learning Microsoft Azure Step by Step Part 1   | [link ](https://udemy-certificate.s3.amazonaws.com/image/UC-0C2R8EOR.jpg "link ") |
 
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
