@@ -8,6 +8,7 @@
 |Streamlining Your Work with Copilot (formerly Bing Chat/Bing Chat Enterprise)   | [link ](https://www.linkedin.com/learning/certificates/06c12801b34092a5b743d9164ad0b4c9e526552c06718fdc37ed76b61a0225f5 "link ") |
 |What Is Generative AI?   | [link ](https://www.linkedin.com/learning/certificates/cbc2a71e284a38893b68d7b43e7b19b934e1088805e18253e0c1ecb3240f8c9a "link ") |
 |Generative AI: The Evolution of Thoughtful Online Search   | [link ](https://www.linkedin.com/learning/certificates/4dfc1dbe631aebcb1e6b14d878f72c8d2621a7f49eae0890da308815873266a4 "link ") |
+|Generative AI Fundamentals   | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
 
 
 
