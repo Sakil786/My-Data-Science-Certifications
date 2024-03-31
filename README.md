@@ -43,5 +43,18 @@
 | Certification Name  |Link   |
 | :------------: | :------------: |
 |Regression Analysis: Simplify Complex Data Relationships   | [link ](https://coursera.org/share/7e11fef46165edaa62470c4044659c78 "link ") |
+|Getting Started with AWS Machine Learning   | [link ](https://coursera.org/share/6515983a0141a31cd740597e18d8ff06 "link ") |
+|Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning   | [link ](https://coursera.org/share/0e1c31a5b1b50ca2b822de78c0e7446a "link ") |
+|Build your first Search Engine using AWS Kendra   | [link ](https://coursera.org/share/b87df5626750c61a1f3e008b9e56c3e3 "link ") |
+|Introduction to Machine Learning in Production   | [link ](https://coursera.org/share/02bebeea63cbed1ad245a6440fdefe20 "link ") |
+|Natural Language Processing in TensorFlow   | [link ](https://coursera.org/share/221cf51c36caec274d497ff1ae1f321c "link ") |
+|Algorithms on Strings   | [link ](https://coursera.org/share/3c395ce5a85ec180a709f2dc8ea255c9 "link ") |
+|Bayesian Statistics: From Concept to Data Analysis   | [link ](https://coursera.org/share/055ca8c4d657cb5c59e27b024de15c5b "link ") |
+|Neural Networks and Deep Learning   | [link ](https://coursera.org/share/98ef9776279743cb094e63db62dffa97 "link ") |
+|Algorithms on Graphs   | [link ](https://coursera.org/share/e50213bf94f68c98aa001f4fa38912d5 "link ") |
+|Algorithmic Toolbox   | [link ](https://coursera.org/share/057a02efd582d42e1c50d47ccaa32a5b "link ") |
+|Digital Signal Processing   | [link ](https://coursera.org/share/ba30af4beb1c1bcde250b4d991602dfe "link ") |
+|Neural Networks for Machine Learning   | [link ](https://coursera.org/share/4eb7c9957a7f63368ae52edff2a56d52 "link ") |
+
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
