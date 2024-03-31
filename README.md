@@ -19,6 +19,15 @@
 |Introduction to Large Language Models  | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
 |Introduction to Generative AI  | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
 
+## Prompt Engineering & RAG
+| Certification Name  |Link   |
+| :------------: | :------------: |
+|ChatGPT Prompt Engineering for Developers   | [link ](https://learn.deeplearning.ai/accomplishments/95d56940-81c7-404c-80a9-fa98d36dae46?usp=sharing "link ") |
+|Prompt Engineering with Llama 2   | [link ](https://learn.deeplearning.ai/accomplishments/e6e846f8-3240-439a-a56b-33c5f3e18e6a?usp=sharing "link ") |
+|Finetuning Large Language Models   | [link ](https://learn.deeplearning.ai/accomplishments/ac96ad54-695e-4bf5-b9fc-deb6ed9e2d04?usp=sharing "link ") |
+|Building and Evaluating Advanced RAG  | [link ](https://learn.deeplearning.ai/accomplishments/ac96ad54-695e-4bf5-b9fc-deb6ed9e2d04?usp=sharing "link ") |
+|LLMOps  | [link ](https://learn.deeplearning.ai/accomplishments/fb9d2a4f-a82d-4575-ba91-b0dae7caa4bb?usp=sharing "link ") |
+
 
 
 
