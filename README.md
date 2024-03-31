@@ -28,7 +28,11 @@
 |Building and Evaluating Advanced RAG  | [link ](https://learn.deeplearning.ai/accomplishments/ac96ad54-695e-4bf5-b9fc-deb6ed9e2d04?usp=sharing "link ") |
 |LLMOps  | [link ](https://learn.deeplearning.ai/accomplishments/fb9d2a4f-a82d-4575-ba91-b0dae7caa4bb?usp=sharing "link ") |
 
-
+## Specializations
+| Specialization Name | Course Name | Link |
+| :---         |     :---:      |          ---: |
+| Google Advanced Data Analytics   | Foundations of Data Science <br> Go Beyond the Numbers: Translate Data into Insights <br> Get Started with Python <br> The Power of Statistics | [link ](https://coursera.org/share/4a41916e4268346082529f00dae5e601 "link ")  <br> [link ](https://coursera.org/share/17a4e8cda6e1b655404d477ca0701213 "link ") <br> [link ](https://coursera.org/share/716aee7773c8aec1df7fe0285a533280 "link ") <br> [link ](https://coursera.org/share/a29eeaff13722eeb3d10ef2c2714b6ce "link ")|
+| git diff     | git diff       | git diff      |
 
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
