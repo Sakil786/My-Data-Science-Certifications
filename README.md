@@ -9,6 +9,16 @@
 |What Is Generative AI?   | [link ](https://www.linkedin.com/learning/certificates/cbc2a71e284a38893b68d7b43e7b19b934e1088805e18253e0c1ecb3240f8c9a "link ") |
 |Generative AI: The Evolution of Thoughtful Online Search   | [link ](https://www.linkedin.com/learning/certificates/4dfc1dbe631aebcb1e6b14d878f72c8d2621a7f49eae0890da308815873266a4 "link ") |
 |Generative AI Fundamentals   | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
+|Introduction to Generative AI Studio   | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
+|Create Image Captioning Models  | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
+|Transformer Models and BERT Model  | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
+|Attention Mechanism  | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
+|Encoder-Decoder Architecture  | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
+|Introduction to Image Generation  | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
+|Introduction to Responsible AI | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
+|Introduction to Large Language Models  | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
+|Introduction to Generative AI  | [link ](https://www.cloudskillsboost.google/public_profiles/9292217d-76c0-4434-9bb7-51cecd014388 "link ") |
+
 
 
 
